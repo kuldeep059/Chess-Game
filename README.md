@@ -1,4 +1,6 @@
-# Grandmaster Level Chess AI (always in progress)
+# Grandmaster Level Chess AI (Easy to access and play)
+
+A tough Competetion for chess master it is !!
 
 This is a chess AI and chess game built using python. 
 
