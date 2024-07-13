@@ -1,4 +1,4 @@
-# PYTHON PROJECT 
+# PYTHON PROJECT FOR BEGINNERS
 
 # Grandmaster Level Chess AI (Easy to access and play)
 
